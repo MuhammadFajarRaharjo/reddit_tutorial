@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371706476526",
+    "project_id": "reddit-tutorial-1",
+    "storage_bucket": "reddit-tutorial-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371706476526:android:12b971b48d8f3408d500ff",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371706476526-u92qahhtinm37u6cucjj67eq9bm74al8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6coLdwGl4uv8xvnqgVfo4iEDt9wmbIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371706476526-u92qahhtinm37u6cucjj67eq9bm74al8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
